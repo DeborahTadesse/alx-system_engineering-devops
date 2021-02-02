@@ -1,2 +1,2 @@
 #!/bin/bash
-echo alias BETTY="Holberton"
+alias BETTY="Holberton"
